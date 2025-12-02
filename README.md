@@ -9,10 +9,10 @@ https://ibm.biz/aigov-G608-3
 
 ### 目次
 <基礎編>
- - 演習1:watsonx.governanceへのログインと基本設定 → Practice1.md
- - 演習2:ユースケース策定 → Practice2.md
- - 演習3:リスク評価の実施 → Practice3.md
- - 演習4:ユースケース承認の実行 → Practice4.md
+ - [演習1:watsonx.governanceへのログインと基本設定](https://github.com/chamchan25/TXC-wx.gov-hands-on/blob/main/Practice1.md)
+ - [演習2:ユースケース策定](https://github.com/chamchan25/TXC-wx.gov-hands-on/blob/main/Practice2.md)
+ - [演習3:リスク評価の実施](https://github.com/chamchan25/TXC-wx.gov-hands-on/blob/main/Practice3.md)
+ - [演習4:ユースケース承認の実行](https://github.com/chamchan25/TXC-wx.gov-hands-on/blob/main/Practice4.md)
 
 <応用編>
- - 演習5:画面やワークフローのカスタマイズ → Practice5.md
+ - [演習5:画面やワークフローのカスタマイズ](https://github.com/chamchan25/TXC-wx.gov-hands-on/blob/main/Practice5.md)
