@@ -5,7 +5,7 @@
 
 https://ibm.biz/aigov-G608-3
 
-![techxchangeG608-3](image/techxchangeG608-3 (1).png)
+![QRcode](image/techxchangeG608-3-QR.png)
 
 ### 目次
 <基礎編>
