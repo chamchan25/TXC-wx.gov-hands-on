@@ -27,7 +27,7 @@ Techxchange123
 
 ③`Access information`のリンクをクリックすると、ガバナンスコンソールが別ウィンドウで開きます。（下画面③参照）
 
-![governance_conlole立ち上げ手順](image2/practice1-1.png)
+![governance_conlole立ち上げ手順](image/practice1-1.png)
 
 ガバナンスコンソールが立ち上がると以下の画面が表示されます。
 
