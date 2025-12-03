@@ -3,9 +3,7 @@
 
 下記リンクを直接入力、またはQRコードを読み込んでアクセスしてください。
 
-https://ibm.biz/aigov-G608-3
-
-![QRcode](image/techxchangeG608-3-QR.png)
+https://ibm.biz/txc-aigov
 
 ### 目次
 <基礎編>
